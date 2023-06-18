@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "list.h": "c",
+        "type_traits": "c",
+        "matriz.h": "c"
+    },
+    "workbench.colorTheme": "Dracula Soft"
+}
