@@ -13,7 +13,7 @@ código execução:
 nesse programa, a saída são as duas matrizes impressas de forma esparsa e densa
 
 
-# main 2:
+# main2:
 
 tem as funções de operações e recebe como parâmetro alem do nome de duas matrizes salvas em binario anteriormente na main1 que serão buscadas na pasta binary, e o nome da matriz que sera usada como kernel na funcao de convolucao, a matriz de saida onde pode ser gerado o arquivo binario de saida de alguma operação
 
